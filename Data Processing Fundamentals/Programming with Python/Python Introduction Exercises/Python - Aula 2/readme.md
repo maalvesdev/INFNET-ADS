@@ -1,5 +1,4 @@
-## Python Fundamentals – Class 2
-Date: 2026-03-05
+## Date: 03/03/2026
 
 ### Topics Covered
 
