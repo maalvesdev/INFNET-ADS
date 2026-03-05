@@ -15,7 +15,7 @@
 
 ---
 
-### Checking if Text Exists (in)
+### Example: Checking if Text Exists (in)
 
 The in operator checks if a word is present in a string.
 
@@ -26,7 +26,7 @@ word = input("Enter a word: ").lower()
 print(word in sentence)
 ```
 
-### Splitting Strings (`split()`)
+### Example: Splitting Strings (`split()`)
 
 Divides a string into parts based on a separator.
 
