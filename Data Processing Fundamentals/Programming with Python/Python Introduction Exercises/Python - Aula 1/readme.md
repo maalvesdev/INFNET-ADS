@@ -1,4 +1,5 @@
-# Python Basics: Variables, Arithmetic and String Slicing - Date: 26/02/2026
+# Python Basics: Variables, Arithmetic and String Slicing
+# Date: 26/02/2026
 
 ### Topics Covered
 
